@@ -1,7 +1,7 @@
 <?php
 /*
  * We only get here after setup, or if there's an error in the configuration.
- *
+ ***
  * Display a table to the user showing the necessary dependencies
  * (both PHP and binary) and the status of any application services,
  * along with steps to fix them if they're not found or misconfigured.
